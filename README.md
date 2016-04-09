@@ -1,3 +1,3 @@
-nmmws 
+# nmmws 
 =====
-this is a JAX-WS application for the server-side of an Android application.
+A JAX-WS (Java web service) application for the server-side of a Nine Men's Morris (boardgame) Android application. This was hosted on OpenShift while the application was live.
